@@ -1,18 +1,21 @@
 import "phaser";
-import { BugOnDeathMarch } from './bugOnDeathMarch';
-import { SceneMain } from './sceneMain';
+import { BugFalling } from './bugFalling';
+import { IAPIBugInfo, SceneMain } from './sceneMain';
 
 export class Bug extends Phaser.Physics.Arcade.Sprite {
-    color = '';
     scale = 1;
     vector: Phaser.Math.Vector2 = undefined;
     speed = 1;
     bugBoardBounds: Phaser.Geom.Rectangle = undefined;
-    sceneMain: SceneMain = undefined;
-    constructor(sceneMain: SceneMain, color: string, bounds: Phaser.Geom.Rectangle) {
+    elapsedTime = 0;
+    timeToDie = 0;
+    constructor(
+        public sceneMain: SceneMain, 
+        public color: string,
+        bounds: Phaser.Geom.Rectangle,
+        public bugInfo: IAPIBugInfo
+        ) {
       super(sceneMain, 0, 0, `bug_${color}`);
-      this.color = color;
-      this.sceneMain = sceneMain;
       sceneMain.add.existing(this);
       sceneMain.physics.add.existing(this);
       sceneMain.healthyBugs = sceneMain.healthyBugs.concat(this);
@@ -21,17 +24,29 @@ export class Bug extends Phaser.Physics.Arcade.Sprite {
       this.setPosition(pos.x, pos.y);
       const animationName = `bug_${color}_animation`;
       this.play(animationName);
-      this.scale = Math.random() * (0.55 - 0.25) + 0.25;
+      this.scale = .15 + (5 - bugInfo.severity) *.15;
+      this.timeToDie = Math.random() * 5000;
       this.vector = new Phaser.Math.Vector2(
         Math.random() * 40 - 20,
         Math.random() * 40 - 20
       );
       this.speed = Math.random() + 1;
+      this.setGravityY(0);
   
       this.setScale(this.scale);
     }
     create() {}
     update(time: number, delta: number) {
+      this.elapsedTime += delta;
+
+      if( this.bugInfo.fixed && this.elapsedTime > this.timeToDie ){
+        new BugFalling(this.sceneMain, this);
+        const myIndex = this.sceneMain.healthyBugs.indexOf(this);
+        this.sceneMain.healthyBugs.splice(myIndex,1);
+        this.destroy();
+        return;
+      }
+
       var v = new Phaser.Math.Vector2(this.vector.x, this.vector.y);
       if (this.x > this.bugBoardBounds.width + this.bugBoardBounds.x) {
         this.x = this.bugBoardBounds.width + this.bugBoardBounds.x;
@@ -54,7 +69,7 @@ export class Bug extends Phaser.Physics.Arcade.Sprite {
     }
   
     beginDeathMarch() {
-      new BugOnDeathMarch(this.sceneMain, this);
+      new BugFalling(this.sceneMain, this);
     }
   
     static createAnimation(sceneMain: SceneMain, color: string): void {
