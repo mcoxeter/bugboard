@@ -5,7 +5,7 @@ export class SceneMain extends Phaser.Scene {
     colors = ['blue', 'green', 'magenta', 'purple', 'red'];
     healthyBugs: Bug[] = [];
     bugsFalling: BugFalling[] = [];
-    bugBoardBoundary = new Phaser.Geom.Rectangle(380, 150, 400, 250);
+    bugBoardBoundary = new Phaser.Geom.Rectangle(340, 100, 600, 300);
     team = 'All Bugs';
     model: IModel = { bugs: []}
   
@@ -46,21 +46,22 @@ export class SceneMain extends Phaser.Scene {
     async create(): Promise<void> {
       var backdrop = this.add.image(0, 0, 'backdrop');
       backdrop.setOrigin(0, 0);
-      this.add.image(600, 280, 'bugboard');
+      const bugBoard = this.add.image(650, 300, 'bugboard');
+      bugBoard.setScale(1.2);
       const apiResults = await this.getNumberOfBugs();
 
       const filteredResults: IAPIResult = {
           bugs:apiResults.bugs.filter( b => this.team === 'All Bugs' || this.team === b.team)
       };
 
-      const text = this.add.text(460,80,
-        `'${this.team}' Bug Board` +
-        "\n" +
-        "Population " + filteredResults.bugs.length);
+      const text = this.add.text(10,10,
+        this.team +
+        "\nPopulation: " + filteredResults.bugs.length +
+        "\nClosed Today: " + filteredResults.bugs.filter( b => b.status === 'Closed' || b.status === 'Released').length        
+        );
       text.setColor("Black");
       text.setFont("Emmett");
-      text.setFontSize(30);
-      text.setAngle(-5);
+      text.setFontSize(24);
 
       this.model = this.mapResultToModel(filteredResults);
       for (var bugIndex = 0; bugIndex < filteredResults.bugs.length; bugIndex++) {
@@ -79,10 +80,10 @@ export class SceneMain extends Phaser.Scene {
         const assignee = x.assignee;
         let severity = 0;
         switch( x.priority){
-          case 'Critical':
+          case 'Blocker':
             severity = 1;
             break;
-          case 'Blocker':
+          case 'Critical':
             severity = 2;
             break;
           case 'Major':
@@ -98,7 +99,7 @@ export class SceneMain extends Phaser.Scene {
         return {
           assignee: x.assignee,
           id: x.key,
-          fixed: x.status === 'Closed' || x.status === 'Fixed',
+          fixed: x.status === 'Closed' || x.status === 'Released',
           severity,
           date: x.updated, 
           team: x.team       
