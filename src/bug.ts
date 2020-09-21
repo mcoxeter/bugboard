@@ -25,7 +25,7 @@ export class Bug extends Phaser.Physics.Arcade.Sprite {
       const animationName = `bug_${color}_animation`;
       this.play(animationName);
       this.scale = .15 + (5 - bugInfo.severity) *.15;
-      this.timeToDie = Math.random() * 5000;
+      this.timeToDie = Math.random() * 10000;
       this.vector = new Phaser.Math.Vector2(
         Math.random() * 40 - 20,
         Math.random() * 40 - 20

@@ -5,7 +5,6 @@ export class SceneMain extends Phaser.Scene {
     colors = ['blue', 'green', 'magenta', 'purple', 'red'];
     healthyBugs: Bug[] = [];
     bugsFalling: BugFalling[] = [];
-    timeSinceLastCheck = 0;
     bugBoardBoundary = new Phaser.Geom.Rectangle(380, 150, 400, 250);
     team = 'All Bugs';
     model: IModel = { bugs: []}
@@ -109,13 +108,6 @@ export class SceneMain extends Phaser.Scene {
     }
     
     async update(time: number, delta: number): Promise<void> {
-
-      this.timeSinceLastCheck += delta;
-  
-      if (this.timeSinceLastCheck > 6000) {
-        this.timeSinceLastCheck = 0;
-      }
-  
       for (var bug of this.healthyBugs) {
         bug.update(time, delta);
       }
