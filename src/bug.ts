@@ -1,6 +1,6 @@
 import "phaser";
 import { BugFalling } from './bugFalling';
-import { IAPIBugInfo, SceneMain } from './sceneMain';
+import { IModelBugInfo, SceneMain } from './sceneMain';
 
 export class Bug extends Phaser.Physics.Arcade.Sprite {
     scale = 1;
@@ -13,7 +13,7 @@ export class Bug extends Phaser.Physics.Arcade.Sprite {
         public sceneMain: SceneMain, 
         public color: string,
         bounds: Phaser.Geom.Rectangle,
-        public bugInfo: IAPIBugInfo
+        public bugInfo: IModelBugInfo
         ) {
       super(sceneMain, 0, 0, `bug_${color}`);
       sceneMain.add.existing(this);

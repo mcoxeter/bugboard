@@ -8,7 +8,7 @@ export class SceneMain extends Phaser.Scene {
     timeSinceLastCheck = 0;
     bugBoardBoundary = new Phaser.Geom.Rectangle(380, 150, 400, 250);
     team = 'all';
-    lastAPIResult: IAPIResult = { bugs: []}
+    model: IModel = { bugs: []}
   
     constructor() {
       super('game');
@@ -47,17 +47,54 @@ export class SceneMain extends Phaser.Scene {
       var backdrop = this.add.image(0, 0, 'backdrop');
       backdrop.setOrigin(0, 0);
       this.add.image(600, 280, 'bugboard');
-      this.lastAPIResult = await this.getNumberOfBugs();
-      for (var bugIndex = 0; bugIndex < this.lastAPIResult.bugs.length; bugIndex++) {
-        if( this.team === 'all' || this.team === this.lastAPIResult.bugs[bugIndex].team ){
-          new Bug(this, this.colors[bugIndex % 5], this.bugBoardBoundary, this.lastAPIResult.bugs[bugIndex]);
+      const apiResults = await this.getNumberOfBugs();
+
+      this.model = this.mapResultToModel(apiResults);
+      for (var bugIndex = 0; bugIndex < this.model.bugs.length; bugIndex++) {
+        if( this.team === 'all' || this.team === this.model.bugs[bugIndex].team ){
+          new Bug(this, this.colors[bugIndex % 5], this.bugBoardBoundary, this.model.bugs[bugIndex]);
         }
       }
-      const apiResult = await this.getNumberOfBugs();
   
       for (var color of this.colors) {
         Bug.createAnimation(this, color);
-        BugFalling.createAnimation(this,color);
+        BugFalling.createAnimation(this,color)
+      }
+
+    }
+
+    mapResultToModel(result: IAPIResult): IModel {
+      const bugs = result.bugs.map(x => {
+        const assignee = x.assignee;
+        let severity = 0;
+        switch( x.priority){
+          case 'Critical':
+            severity = 1;
+            break;
+          case 'Blocker':
+            severity = 2;
+            break;
+          case 'Major':
+            severity = 3;
+            break;
+          case 'Minor':
+            severity = 4;
+            break;
+          default:
+            severity = 4;
+        }
+        const team = x.team;
+        return {
+          assignee: x.assignee,
+          id: x.key,
+          fixed: x.status === 'Closed' || x.status === 'Fixed',
+          severity,
+          date: x.updated, 
+          team: x.team       
+        }
+      } );
+      return {
+        bugs: bugs
       }
 
     }
@@ -84,54 +121,55 @@ export class SceneMain extends Phaser.Scene {
             resolve({
               bugs: [
                   {
-                      assignee: 'mike',
-                      fixed: false,
-                      id: 'STYLEGUIDE: 1012213',
-                      date: '01.09.2020',
-                      severity: 1,
-                      team: 'portal'
+                    key: "PURESUPPORT-68354",
+                    summary: "Implement automated search using ResearcherID with WoSlite.",
+                    assignee: "Team Data Models",
+                    assigneeIconUrl: "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+                    status: "Open",
+                    team: "Data models",
+                    priority: "Critical",
+                    updated: "2020-09-21T10:30:32.000+00:00"                    
                   },
                   {
-                      assignee: 'frida',
-                      fixed: false,
-                      id: 'STYLEGUIDE: 66565',
-                      date: '11.08.2020',
-                      severity: 2,
-                      team: 'dataModels'
-                  },
-                  {
-                      assignee: 'martin',
-                      fixed: true,
-                      id: 'PUREDEV: 323',
-                      date: '21.09.2020',
-                      severity:3,
-                      team: 'dataModels'
-                  },
-                  {
-                    assignee: 'freddy',
-                    fixed: true,
-                    id: 'PUREDEV: 7773',
-                    date: '20.09.2020',
-                    severity:4,
-                    team: 'dataModels'
-                }
+                    key: "PURESUPPORT-68353",
+                    summary: "REF2021 - REF2 Output Label",
+                    assignee: "Claus Poulsen",
+                    assigneeIconUrl: "https://support.pure.elsevier.com/secure/useravatar?ownerId=cpo&avatarId=16387",
+                    status: "Open",
+                    team: "Support",
+                    priority: "Major",
+                    updated: "2020-09-21T10:33:53.000+00:00"
+                  }
             ]
           })
           }, 1000)
         );
-      }
-    
-    
+      }    
   }
 
-export interface IAPIResult {
-    bugs: IAPIBugInfo[];
+export interface IModel {
+    bugs: IModelBugInfo[];
 }
-export interface IAPIBugInfo {
+export interface IModelBugInfo {
     assignee: string;
     id: string;
     fixed: boolean;
     severity: number;
     date: string;      
     team: string;
+}
+
+export interface IAPIResult {
+  bugs: IAPIBug[];
+}
+
+export interface IAPIBug {
+  key: string;
+  summary: string;
+  assignee: string;
+  assigneeIconUrl: string;
+  status: string;
+  team: string;
+  priority: string;
+  updated: string;
 }
