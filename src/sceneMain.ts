@@ -48,20 +48,23 @@ export class SceneMain extends Phaser.Scene {
       backdrop.setOrigin(0, 0);
       this.add.image(600, 280, 'bugboard');
       const apiResults = await this.getNumberOfBugs();
+
+      const filteredResults: IAPIResult = {
+          bugs:apiResults.bugs.filter( b => this.team === 'All Bugs' || this.team === b.team)
+      };
+
       const text = this.add.text(460,80,
         `'${this.team}' Bug Board` +
         "\n" +
-        "Population " + apiResults.bugs.length);
+        "Population " + filteredResults.bugs.length);
       text.setColor("Black");
       text.setFont("Emmett");
       text.setFontSize(30);
       text.setAngle(-5);
 
-      this.model = this.mapResultToModel(apiResults);
-      for (var bugIndex = 0; bugIndex < this.model.bugs.length; bugIndex++) {
-        if( this.team === 'All Bugs' || this.team === this.model.bugs[bugIndex].team ){
-          new Bug(this, this.colors[bugIndex % 5], this.bugBoardBoundary, this.model.bugs[bugIndex]);
-        }
+      this.model = this.mapResultToModel(filteredResults);
+      for (var bugIndex = 0; bugIndex < filteredResults.bugs.length; bugIndex++) {
+        new Bug(this, this.colors[bugIndex % 5], this.bugBoardBoundary, this.model.bugs[bugIndex]);
       }
   
       for (var color of this.colors) {
