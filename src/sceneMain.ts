@@ -124,7 +124,7 @@ export class SceneMain extends Phaser.Scene {
       }
     }
 
-    async getNumberOfBugs(): Promise<IAPIResult> {
+    async testGetNumberOfBugs(): Promise<IAPIResult> {
         return new Promise((resolve) =>
           setTimeout(() => {
             resolve({
@@ -154,6 +154,14 @@ export class SceneMain extends Phaser.Scene {
           }, 1000)
         );
       }    
+      async getNumberOfBugs(): Promise<IAPIResult> {
+        const liveUrl = 'http://localhost:9090/api/bugboard';
+        const testUrl = '/assets/testApiResponse.json';
+         const result = await fetch(liveUrl).then( response => response.json() );
+         return {
+           bugs: result 
+         }
+       }    
   }
 
 export interface IModel {
