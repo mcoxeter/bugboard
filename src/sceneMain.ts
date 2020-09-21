@@ -7,7 +7,7 @@ export class SceneMain extends Phaser.Scene {
     bugsFalling: BugFalling[] = [];
     timeSinceLastCheck = 0;
     bugBoardBoundary = new Phaser.Geom.Rectangle(380, 150, 400, 250);
-    team = 'all';
+    team = 'All Bugs';
     model: IModel = { bugs: []}
   
     constructor() {
@@ -26,7 +26,8 @@ export class SceneMain extends Phaser.Scene {
 
       const paramPair = document.URL.split('?')[1];
       if( paramPair ){
-          this.team = paramPair.split('=')[1];
+        
+          this.team = unescape(paramPair.split('=')[1]);
       }
   
       for (var color of this.colors) {
@@ -48,10 +49,18 @@ export class SceneMain extends Phaser.Scene {
       backdrop.setOrigin(0, 0);
       this.add.image(600, 280, 'bugboard');
       const apiResults = await this.getNumberOfBugs();
+      const text = this.add.text(460,80,
+        `'${this.team}' Bug Board` +
+        "\n" +
+        "Population " + apiResults.bugs.length);
+      text.setColor("Black");
+      text.setFont("Emmett");
+      text.setFontSize(30);
+      text.setAngle(-5);
 
       this.model = this.mapResultToModel(apiResults);
       for (var bugIndex = 0; bugIndex < this.model.bugs.length; bugIndex++) {
-        if( this.team === 'all' || this.team === this.model.bugs[bugIndex].team ){
+        if( this.team === 'All Bugs' || this.team === this.model.bugs[bugIndex].team ){
           new Bug(this, this.colors[bugIndex % 5], this.bugBoardBoundary, this.model.bugs[bugIndex]);
         }
       }
