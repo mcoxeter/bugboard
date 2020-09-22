@@ -1,0 +1,3442 @@
+[
+    {
+        "key": "PURESUPPORT-68379",
+        "summary": "RO: Deduplication of multiple affiliations with same organisation not always working",
+        "assignee": "Pure Support Team",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=pure_support_team&avatarId=11283",
+        "status": "Open",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-09-22T07:44:49.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68371",
+        "summary": "500 internal server error",
+        "assignee": "Anette Rosendahl Pedersen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Feedback",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-09-22T07:04:38.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68368",
+        "summary": "Pure instance amsterdamconsortium-staging has created a heap dump",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-22T06:28:44.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68354",
+        "summary": "Implement automated search using ResearcherID with WoSlite.",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Open",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-21T10:30:32.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68342",
+        "summary": "Pure instance ulsteruniversity has created a heap dump",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-21T07:59:59.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68338",
+        "summary": "Blackdakel: Titel not transfered",
+        "assignee": "Team Integrations",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_integrations&avatarId=15590",
+        "status": "Acknowledged by engineering team",
+        "team": "Integrations",
+        "priority": "Major",
+        "updated": "2020-09-21T05:45:53.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68318",
+        "summary": "Excel download Bug",
+        "assignee": "Becky Adkins-Cephas",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=b.adkins-cephas%40elsevier.com&avatarId=15882",
+        "status": "Waiting for client",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-09-21T15:18:08.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68312",
+        "summary": "Mange af vores brugere oplever fejl ved login",
+        "assignee": "Pure Support Team",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=pure_support_team&avatarId=11283",
+        "status": "Waiting for client",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-09-18T16:20:19.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68308",
+        "summary": "finger print job sometimes seems to end up in a tread lock situation.",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Critical",
+        "updated": "2020-09-21T14:57:38.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68303",
+        "summary": "ERROR: Could not fetch records from null.",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Triaged",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-21T08:40:05.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68301",
+        "summary": "can´t upload an ORCID to a researchers profile",
+        "assignee": "Anette Rosendahl Pedersen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Waiting for client",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-09-18T10:09:58.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68300",
+        "summary": "jufoMetricsImportCronJob imports wrong metrics",
+        "assignee": "Team Integrations",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_integrations&avatarId=15590",
+        "status": "Triaged",
+        "team": "Integrations",
+        "priority": "Major",
+        "updated": "2020-09-18T11:16:35.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68299",
+        "summary": "Portal: Note re. dissertation field shows html tags in text",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Minor",
+        "updated": "2020-09-21T08:41:20.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68296",
+        "summary": "Masterlist submission",
+        "assignee": "Judith Hedderich",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=judith_hedderich&avatarId=13287",
+        "status": "Triaged",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-09-21T16:30:43.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68292",
+        "summary": "Research outputs involved two departments cannot be extracted in New Reporting module",
+        "assignee": "Benjamin Soo",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=b.soo%40elsevier.com&avatarId=15880",
+        "status": "Waiting for client",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-09-18T08:43:12.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68282",
+        "summary": "UoB: client unable to change user interface label in Portal",
+        "assignee": "Becky Adkins-Cephas",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=b.adkins-cephas%40elsevier.com&avatarId=15882",
+        "status": "Waiting for client",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-09-21T12:35:58.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68279",
+        "summary": "report applications",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-22T06:51:46.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68277",
+        "summary": "5.18.3 migration fail, eprints update via trigger",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Open",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-18T06:14:47.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68276",
+        "summary": "AMSCO - Community server harvest of researcher profile images",
+        "assignee": "Team Community Module",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Waiting for client",
+        "team": "Reinforcement",
+        "priority": "Major",
+        "updated": "2020-09-17T13:34:19.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68260",
+        "summary": "Pure instance ohiostateuniversity-production has created a heap dump",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-17T06:39:37.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68244",
+        "summary": "URGENT - pure down at RTI",
+        "assignee": "Team Infrastructure (Ops)",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Feedback",
+        "team": "Infrastructure (Ops)",
+        "priority": "Major",
+        "updated": "2020-09-22T05:21:47.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68239",
+        "summary": "Scopus twice in external source menu",
+        "assignee": "Team Integrations",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_integrations&avatarId=15590",
+        "status": "Triaged",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-09-17T19:26:17.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68235",
+        "summary": "Fatal error when submitting to REF submission system",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-17T13:55:28.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68233",
+        "summary": "Duplicate DOI record that refuses to merge",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Reopened",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-16T15:49:12.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68231",
+        "summary": "Instance al2-DS9UsTomcatA1 has unexpectedly died (no heap dump)",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Reopened",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-09-17T06:59:04.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68230",
+        "summary": "export of data story",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-16T14:00:05.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68226",
+        "summary": "REF2 not created/switched when bulk editing REF 1 UoAs",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-16T14:00:26.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68223",
+        "summary": "REF: predicted grade visibility for staff who did not propose the output",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-16T14:00:37.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68222",
+        "summary": "Locked user accounts in 5.17",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Needs specification",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-22T07:12:33.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68221",
+        "summary": "REF attribution algorithm ",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-16T14:00:54.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68219",
+        "summary": "HKBU: Use of JavaScript Library with Known Vulnerability",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Triaged",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-18T08:03:42.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68218",
+        "summary": "HKBU:  Form Can Be Manipulated with Cross-Site Request Forgery (CSRF)",
+        "assignee": "Tommy Winther",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=twi&avatarId=14887",
+        "status": "In Progress",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-18T10:18:52.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68217",
+        "summary": "HKBU: Cross-Site Scripting (XSS) Vulnerabilities",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Critical",
+        "updated": "2020-09-16T14:01:07.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68216",
+        "summary": "Contact Expert e-mails not delivered",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "In Progress",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-09-21T11:59:29.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68206",
+        "summary": "Pure instance yonseiuniversity-production has created a heap dump",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-22T06:27:03.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68203",
+        "summary": "Upgrade to 5.18.3 failed",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-17T12:58:32.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68198",
+        "summary": "\"Oops! Something went wrong\"",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Feedback",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-18T14:34:38.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68183",
+        "summary": "GVK: Creating author collaborations when research report is imported",
+        "assignee": "Team Integrations",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_integrations&avatarId=15590",
+        "status": "Acknowledged by engineering team",
+        "team": "Integrations",
+        "priority": "Major",
+        "updated": "2020-09-16T07:59:22.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68181",
+        "summary": "Report - STOP Project Overall",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-16T14:02:55.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68168",
+        "summary": "Cron Job issues",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-21T11:53:51.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68155",
+        "summary": "University of Lapland - Pure Portal - Translation Issues",
+        "assignee": "Anders Strandløv Elkjær",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=ase&avatarId=17186",
+        "status": "In Progress",
+        "team": "Portals",
+        "priority": "Minor",
+        "updated": "2020-09-21T13:02:05.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68146",
+        "summary": "New reporting module / REF - reserve outputs selection status not updating",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-16T14:03:06.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68144",
+        "summary": "Problems following upgrade",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-21T15:15:41.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68136",
+        "summary": "Instance rigastradinsuniversity-staging has unexpectedly died (no heap dump)",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-15T06:13:58.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68125",
+        "summary": "New reporting doesn't break institutional parts of funding apart",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-14T10:21:37.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68124",
+        "summary": "Scheduled reports are failing to produce results",
+        "assignee": "Henrik Simonsen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=hks&avatarId=10050",
+        "status": "Waiting for client",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-09-14T06:35:57.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68120",
+        "summary": "Pure instance pureapidevelopmentcommunity-covid19 has created a heap dump",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-14T06:47:37.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68119",
+        "summary": "Pure instance universitybristol-staging has created a heap dump",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-14T06:47:56.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68111",
+        "summary": "403 in OrcidImportDataLocator spams the console log",
+        "assignee": "Team Integrations",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_integrations&avatarId=15590",
+        "status": "Acknowledged by engineering team",
+        "team": "Integrations",
+        "priority": "Major",
+        "updated": "2020-09-18T12:11:02.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68090",
+        "summary": "when switch to the traditional version, the map string is still showing simplified Chinese",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Minor",
+        "updated": "2020-09-16T10:06:23.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68053",
+        "summary": "Issues loggin on via Firefox and wierd content in <title>",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Triaged",
+        "team": "Data models",
+        "priority": "Minor",
+        "updated": "2020-09-21T13:25:45.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68043",
+        "summary": "Errors found by \"Check content and files\" job",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Waiting for client",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-17T10:39:30.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68039",
+        "summary": "TMU- Project Error",
+        "assignee": "Mona Kjeldgaard",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=mona&avatarId=16887",
+        "status": "Waiting for client",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-09-16T12:53:33.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68037",
+        "summary": "new reporting module- cannot report on some keywords",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-11T11:03:44.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68021",
+        "summary": "Grants missing from investigator's profile - Zheng-Ming Ding",
+        "assignee": "Marcela Aristizabal",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=15094",
+        "status": "Triaged",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-09-17T07:22:58.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-68001",
+        "summary": "Fingerprinting on portal only for medicine",
+        "assignee": "Christian Pedersen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Waiting for client",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-09-15T08:23:36.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67992",
+        "summary": "Person Relations missing in Editor",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "In Progress",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-21T12:27:00.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67975",
+        "summary": "missing data from UoA summary screen",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Feedback",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-09T09:44:38.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67968",
+        "summary": "fields parameter missing in ws/api/518/soap/persons?wsdl",
+        "assignee": "Jens Laurits Pedersen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=jlp&avatarId=16186",
+        "status": "Waiting for client",
+        "team": "Integrations",
+        "priority": "Major",
+        "updated": "2020-09-08T07:14:17.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67965",
+        "summary": "Available updates form online resources error",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Triaged",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-18T08:31:06.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67950",
+        "summary": "Jobs interlocking eachother",
+        "assignee": "Pure Support Team",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=pure_support_team&avatarId=11283",
+        "status": "Waiting for client",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-09-16T17:14:30.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67943",
+        "summary": "Pure instance nationalchiaotunguniversity-production has created a heap dump",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-07T06:17:42.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67936",
+        "summary": "\"Bad request\" error message ",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Waiting for client",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-09T08:41:31.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67931",
+        "summary": "Users testing Pure are unable to log in on Internet Explorer and Chrome Browsers",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Waiting for client",
+        "team": "Infrastructure (Ops)",
+        "priority": "Major",
+        "updated": "2020-09-07T09:59:35.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67927",
+        "summary": "Instance danishnationalinstitutesocialresearch-staging has unexpectedly died (no heap dump)",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-07T06:17:21.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67916",
+        "summary": "Error when merging external organisations",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Acknowledged by engineering team",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-09T06:46:51.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67912",
+        "summary": "Kan i genstarte: https://ucviden.elsevierpure.com/ ?",
+        "assignee": "Anette Rosendahl Pedersen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Waiting for client",
+        "team": "Integrations",
+        "priority": "Major",
+        "updated": "2020-09-07T08:45:09.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67895",
+        "summary": "Ikke-relaterede \"Eksterne organisationer\" i community",
+        "assignee": "Team Community Module",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Reinforcement",
+        "priority": "Major",
+        "updated": "2020-09-16T11:35:48.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67893",
+        "summary": "AMSCO - Pure Portal issue with showing organisation type names",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Reopened",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-09-16T11:36:46.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67886",
+        "summary": "REF2 validation - publisher not pulled through from output record",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Feedback",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-21T14:14:38.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67874",
+        "summary": "Pure instance universitadeglistudipalermo has created a heap dump",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-03T06:05:50.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67865",
+        "summary": "REF2 validation - physical output",
+        "assignee": "Zobair Qauomi",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Waiting for client",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-21T12:49:18.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67855",
+        "summary": "BFI Publication Status Update Job",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Triaged",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-21T16:12:00.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67852",
+        "summary": "Instance telavivuniversity-staging has unexpectedly died (no heap dump)",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-02T07:39:17.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67842",
+        "summary": "Grant information dates issue - Nadine Hempel",
+        "assignee": "Team Award Management",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Reinforcement",
+        "priority": "Major",
+        "updated": "2020-09-15T15:44:59.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67837",
+        "summary": "Check Content And Files - fatal errors",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-03T09:16:12.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67825",
+        "summary": "Could not import new publications",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Acknowledged by engineering team",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-14T07:55:44.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67816",
+        "summary": "Own Research Output Keyword - one of the options not working in filters/reports",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-11T11:03:33.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67794",
+        "summary": "Clickjacking found by scanning",
+        "assignee": "Brian Plauborg",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=bp&avatarId=17183",
+        "status": "In Progress",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-03T06:59:37.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67790",
+        "summary": "Forkert formatering ved export af avisartikler til BibTeX",
+        "assignee": "Thue Udengaard Andersen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=tua&avatarId=15206",
+        "status": "Feedback",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-21T15:12:14.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67786",
+        "summary": "Åbne afleveringslinks (studenterprojekter) fra gammel Pure er stadig aktive efter migrering",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Waiting for client",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-16T14:22:48.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67768",
+        "summary": "Poor Performance of Reporting Module (WashU)",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-07T07:15:22.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67757",
+        "summary": "Pure Outage",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-07T06:40:20.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67756",
+        "summary": "During copying prod.server data to test server some errors occured!",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Waiting for client",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-02T08:24:02.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67751",
+        "summary": "New reporting module: report causes major disruption (Pure outage)",
+        "assignee": "Mona Kjeldgaard",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=mona&avatarId=16887",
+        "status": "Waiting for client",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-09-14T04:56:02.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67743",
+        "summary": "Error during content import",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Acknowledged by engineering team",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-04T07:56:16.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67742",
+        "summary": "Many filter item model restore errors in log",
+        "assignee": "Thomas Ægidiussen Jensen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=tje&avatarId=15792",
+        "status": "In Progress",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-21T13:04:22.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67740",
+        "summary": "LUH CPP: PlumX widgets disappeared",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-09-16T10:58:35.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67738",
+        "summary": "COVID-19 portal - please remove UWA content",
+        "assignee": "Grahame Pearson",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=grahame_pearson&avatarId=16287",
+        "status": "Feedback",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-09-08T08:47:21.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67731",
+        "summary": "facilities shown on organisation's page",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-08-31T12:08:18.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67726",
+        "summary": "REF Module - Output content type H (Website content) - unable to link PDF or URL to the REF2",
+        "assignee": "Zobair Qauomi",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "In Progress",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-04T07:55:05.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67725",
+        "summary": "REF Module - Bulk upload of output allocation keywords - problems with the upload",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-04T06:58:50.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67719",
+        "summary": "DL-statistik genstartet efter migrering og overgang til community",
+        "assignee": "Jens Krog Mørup",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Triaged",
+        "team": "Implementation Managers",
+        "priority": "Major",
+        "updated": "2020-08-28T10:01:08.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67718",
+        "summary": "\"Andre filer\" vises ikke på portal",
+        "assignee": "Jens Krog Mørup",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Triaged",
+        "team": "Implementation Managers",
+        "priority": "Major",
+        "updated": "2020-09-15T10:48:09.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67711",
+        "summary": "No Cost: Import Funding Opportunities to Pure on the topic of COVID",
+        "assignee": "Martin Stentoft",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=stentoftm&avatarId=16698",
+        "status": "Reopened",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-16T07:40:40.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67691",
+        "summary": "Overridden FTE not updated in REF1a summary screen",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-04T07:32:44.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67639",
+        "summary": "Error message when trying to download pdf from hosted Portal",
+        "assignee": "Anders Strandløv Elkjær",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=ase&avatarId=17186",
+        "status": "Feedback",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-09-18T08:41:36.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67633",
+        "summary": "automated search not searching by Researcher ID",
+        "assignee": "Jacob Hansen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=jah&avatarId=12883",
+        "status": "In Progress",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-16T11:56:33.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67632",
+        "summary": "Pure portal: editing text ressources: changes are not applied",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Reopened",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-09-02T11:39:47.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67621",
+        "summary": "error in report editing when trying to use \"Affiliation\" filter",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-04T11:41:14.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67606",
+        "summary": "Staff who commenced employment 31st July 2020 assigned as \"Former Staff on Census Date\"",
+        "assignee": "Thomas Ægidiussen Jensen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=tje&avatarId=15792",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-04T08:56:15.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67603",
+        "summary": "REF2 Attribution Algorithm",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-07T13:19:14.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67598",
+        "summary": "Reporting on WoS metrics",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-07T07:13:55.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67581",
+        "summary": "Incorrect number of outputs required calculation",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-04T07:24:50.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67564",
+        "summary": "Mendeley automated search giving error for specific person",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Feedback",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-22T03:54:38.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67557",
+        "summary": "Validation errors not resolving on REF2 summary screen",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-04T07:22:51.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67529",
+        "summary": "Pure portal - Lost in translation",
+        "assignee": "Anders Mullerup",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "In Progress",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-09-22T05:43:56.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67526",
+        "summary": "Instance technionisraelinstitutetech-staging has unexpectedly died (no heap dump)",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-08-20T06:33:25.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67504",
+        "summary": "Pure instance pureapidevelopmentcommunity-covid19 has created a heap dump",
+        "assignee": "Kim Kronborg",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=kkr&avatarId=10481",
+        "status": "Acknowledged by engineering team",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-01T08:35:46.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67493",
+        "summary": "Pure/Pure Portal - Spacing and contrast in CV layout",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-04T07:22:15.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67456",
+        "summary": "Rendering issues for Editors of REF2",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-19T12:25:44.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67455",
+        "summary": "REF1 report",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Reopened",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-08T09:28:37.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67452",
+        "summary": "Merge when linked to REF2",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-19T08:29:44.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67447",
+        "summary": "Filtrer på finansieringskilde i det nye rapportmodul",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-19T15:02:38.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67444",
+        "summary": "Filter \"har beskrivelse\" i PURE rapport beta (ansøgning) virker ikke",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-19T08:23:31.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67438",
+        "summary": "confidential applications",
+        "assignee": "Team Award Management",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Reinforcement",
+        "priority": "Major",
+        "updated": "2020-09-18T12:18:22.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67421",
+        "summary": "Pure Experts Password Issue",
+        "assignee": "Mads Trier",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=mtr&avatarId=16189",
+        "status": "Waiting for client",
+        "team": "Integrations",
+        "priority": "Critical",
+        "updated": "2020-09-15T05:30:07.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67417",
+        "summary": "'Related UOA' label rendering as '???relatedUoA???' in REF2 record",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-21T10:33:53.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67413",
+        "summary": "Budget line descriptions when viewing totalled funding",
+        "assignee": "Martin Stentoft",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=stentoftm&avatarId=16698",
+        "status": "Acknowledged by engineering team",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-08-20T12:08:49.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67408",
+        "summary": "Grant/Award & Project  ",
+        "assignee": "Team Award Management",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Needs specification",
+        "team": "Reinforcement",
+        "priority": "Major",
+        "updated": "2020-09-18T13:05:09.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67395",
+        "summary": "Unable to delete REF2021 research groups",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-17T04:20:42.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67394",
+        "summary": "REF OA compliance manual setting",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Feedback",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-21T15:24:37.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67393",
+        "summary": "Conference proceedings in scope bug",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-11T15:49:49.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67390",
+        "summary": "Issues submitting to REF2021",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-11T08:47:17.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67382",
+        "summary": "Parts of Pure running very slow",
+        "assignee": "Peter Christoffersen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "In Progress",
+        "team": "Integrations",
+        "priority": "Major",
+        "updated": "2020-09-18T10:38:30.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67377",
+        "summary": "Pure instance houstonmethodist-production has created a heap dump",
+        "assignee": "Jacob Hansen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=jah&avatarId=12883",
+        "status": "In Progress",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-16T09:06:25.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67368",
+        "summary": "LUH CPP: filter for organisational units does not include sub units",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-09-16T10:58:46.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67367",
+        "summary": "Error in network graph",
+        "assignee": "Martin Skouboe Pedersen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=msp&avatarId=15503",
+        "status": "Acknowledged by engineering team",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-08-28T11:22:12.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67362",
+        "summary": "Error completing milestones",
+        "assignee": "Lasse Høgh",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=lh&avatarId=13592",
+        "status": "In Progress",
+        "team": "Reinforcement",
+        "priority": "Major",
+        "updated": "2020-09-18T06:01:08.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67353",
+        "summary": "Award management workflow not skipping a step",
+        "assignee": "Henrik Simonsen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=hks&avatarId=10050",
+        "status": "Feedback",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-09-10T15:39:45.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67351",
+        "summary": "Pure instance universitadeglistudipalermo has created a heap dump",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-11T05:36:01.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67335",
+        "summary": "AMM 'Total academic ownership' missing in applications reporting",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-13T16:16:33.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67284",
+        "summary": "PURE FATAL: job: 'QABO Publication Import'",
+        "assignee": "PRS Team",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Triaged",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-09-22T01:51:35.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67270",
+        "summary": "Commissioned reports - REF submission data requiring hard copy when DOI is available",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-13T15:56:37.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67245",
+        "summary": "Administrator dashboard: cannot select the “Compare” box",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-07T12:34:11.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67210",
+        "summary": "CV - profile picture is very small in Word",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-07T12:02:21.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67209",
+        "summary": "Reporting REF1",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-14T12:15:05.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67201",
+        "summary": "Instance skolkovoinstitutesciencetechnology-staging has unexpectedly died (no heap dump)",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-08-07T06:39:32.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67198",
+        "summary": "Portal - label for Research Output graph is inconsistent.",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Minor",
+        "updated": "2020-08-06T08:51:11.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67178",
+        "summary": "Dashboard Dates (Augusta)",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-10T10:44:30.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67154",
+        "summary": "Cannot export from Data Story (Princeton)",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-11T19:26:55.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67144",
+        "summary": "BFI tidsskriftslister BFI (journal-list)  Metric  update after 2014 nedeed",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-18T10:17:15.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67140",
+        "summary": "Data cleanup job including current staff",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Needs specification",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-11T08:37:25.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67138",
+        "summary": "Unified Config User Synchronisation - error",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-11T08:10:56.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67109",
+        "summary": "Staff member showing as not employed on REF census date",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-05T12:09:15.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67085",
+        "summary": "REF1 selection errors",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-03T14:57:53.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67066",
+        "summary": "Duplicate Title not displaying matches",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Waiting for client",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-16T11:51:38.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67062",
+        "summary": "REF - totals for REF4a nad b not consisent across summary screens",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-07-31T13:07:42.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67057",
+        "summary": "Submission to REF job not displaying, 'request entity too large'.",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-04T08:43:45.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-67051",
+        "summary": "Possible memory leak in SAML",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-08-10T11:12:07.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66931",
+        "summary": "REF2 Reserve output - associated staff member",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-26T10:37:18.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66918",
+        "summary": "Importing from Scopus organisational units > Pure mismatch: 'University of Amsterdam' is not 'Amsterdam University College' ",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Acknowledged by engineering team",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-04T12:01:57.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66914",
+        "summary": "Error sending \"contact module\"",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "In Progress",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-09-02T13:24:37.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66901",
+        "summary": "Error in API documentation regading API versions.",
+        "assignee": "Team User Documentation",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Triaged",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-09-22T07:12:02.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66876",
+        "summary": "ref1 valid summary screen",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-13T16:00:09.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66875",
+        "summary": "Pure instance universitydundee-staging has created a heap dump",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-31T12:47:52.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66848",
+        "summary": "Advanced Portal keeps grinding to a halt and needs a restart",
+        "assignee": "Anders Strandløv Elkjær",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=ase&avatarId=17186",
+        "status": "Feedback",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-09-07T06:00:57.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66823",
+        "summary": "Deduplicated external organizations records, appearing after 5.18 Pure update ",
+        "assignee": "Jakob Jørgensen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=15110",
+        "status": "Waiting for client",
+        "team": "Integrations",
+        "priority": "Critical",
+        "updated": "2020-09-16T07:51:50.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66799",
+        "summary": "REF summary screens - non-complaint outputs, inconsistencies in the data",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-07-28T13:30:02.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66795",
+        "summary": "<Error synchronization > continual issue for PURESUPPORT-66604",
+        "assignee": "Judith Hedderich",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=judith_hedderich&avatarId=13287",
+        "status": "Feedback",
+        "team": "Integrations",
+        "priority": "Major",
+        "updated": "2020-09-04T08:36:12.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66783",
+        "summary": "Automated Search for Person and Organisation",
+        "assignee": "Thomas Gurney",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=t.gurney%40elsevier.com&avatarId=14180",
+        "status": "Needs specification",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-22T07:17:20.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66772",
+        "summary": "Attribution algorithm - 'Requirements not met' highlighting missing",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-07-28T13:29:16.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66756",
+        "summary": "new reporting datastory error",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-06T10:05:47.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66747",
+        "summary": "Searching for an Expert’s research output returns incomplete/incorrect information",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Needs specification",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-08-03T07:56:41.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66737",
+        "summary": "REF1b anomaly - REF submission system",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-07-17T08:01:49.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66723",
+        "summary": "Problem with Excel export (Projects)",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-07-17T11:59:39.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66696",
+        "summary": "Pure runs out of heap and becomes unusable",
+        "assignee": "Michael Jensen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=15108",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-09-17T10:28:35.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66691",
+        "summary": "Portal UI (NJEDA)",
+        "assignee": "Anders Mullerup",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "In Progress",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-09-18T07:30:14.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66682",
+        "summary": "New Reporting-Selecting report by Content Type",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-04T08:31:42.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66658",
+        "summary": "EbscoHost research outputs",
+        "assignee": "Farah Karimi",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=15108",
+        "status": "Feedback",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-07-15T17:35:39.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66645",
+        "summary": "Error New Reporting module",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-07-17T11:38:53.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66595",
+        "summary": "Fingerprint Issues ",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-09-16T06:53:22.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66575",
+        "summary": "CV - Portal download time ",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-07-13T06:23:33.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66532",
+        "summary": "Unable to filter on funding organisation on Applications",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-07-13T10:53:10.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66455",
+        "summary": "Pure portal  - Portuguese support",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-07-10T10:07:49.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66366",
+        "summary": "Importing Covid-19 Funding Opportunities to Pure",
+        "assignee": "Tórhallur Kirke",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=tki&avatarId=15984",
+        "status": "Feedback",
+        "team": "Integrations",
+        "priority": "Major",
+        "updated": "2020-08-25T16:04:30.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66348",
+        "summary": "Scopus ID to Pure refresh working?",
+        "assignee": "Jörg Dix",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=jorg_dix&avatarId=15194",
+        "status": "Triaged",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-09-17T16:54:20.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66290",
+        "summary": "Period filter Activities in new report module",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-21T08:59:52.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66266",
+        "summary": "5.17.3 Beta Reporting ",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-07-13T10:48:16.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66258",
+        "summary": "Error pop-up when trying to update/save publication record?",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-27T09:58:30.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66236",
+        "summary": "One-time password for text resource (Portal)",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-09-02T07:36:48.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66180",
+        "summary": "Pure Backend Menu - Usage Analytics",
+        "assignee": "Maria Jędrzejowska",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=JIRAUSER18906&avatarId=17384",
+        "status": "In Progress",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-22T07:15:09.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66179",
+        "summary": "Same Simplified Chinese translation for Activities and Event",
+        "assignee": "Maria Jędrzejowska",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=JIRAUSER18906&avatarId=17384",
+        "status": "Needs specification",
+        "team": "Implementation Managers",
+        "priority": "Major",
+        "updated": "2020-09-17T02:58:12.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66159",
+        "summary": "Date format for Chinese UI ",
+        "assignee": "Kim Thrysøe",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=kt&avatarId=13783",
+        "status": "Waiting for client",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-17T02:59:25.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66141",
+        "summary": "Data Monitor API integration with Pure / fluctuating imported data sets",
+        "assignee": "Lorenzo Feri",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Feedback",
+        "team": "Integrations",
+        "priority": "Major",
+        "updated": "2020-08-06T10:40:45.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-66051",
+        "summary": "New Reporting caused Server Crash",
+        "assignee": "Dan Malthesen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=dm&avatarId=10430",
+        "status": "Reopened",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-21T13:59:13.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-65964",
+        "summary": "Portal does not return results when searching using designated title",
+        "assignee": "Mike Bertelsen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=mbe&avatarId=17227",
+        "status": "Reopened",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-08-17T07:40:03.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-65944",
+        "summary": "Dubletdata fjernes ikke fra sammenkørte publikationer i community",
+        "assignee": "Lasse Høgh",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=lh&avatarId=13592",
+        "status": "Acknowledged by engineering team",
+        "team": "Reinforcement",
+        "priority": "Major",
+        "updated": "2020-09-21T07:50:00.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-65921",
+        "summary": "new reporting - GDPR violations",
+        "assignee": "Davina Erasmus",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Triaged",
+        "team": "Awards + Funding",
+        "priority": "Critical",
+        "updated": "2020-06-22T06:53:58.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-65893",
+        "summary": "Connector to eprints not converting special characters to ascii hex",
+        "assignee": "Mads Trier",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=mtr&avatarId=16189",
+        "status": "Feedback",
+        "team": "Integrations",
+        "priority": "Major",
+        "updated": "2020-08-20T09:24:26.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-65881",
+        "summary": "Skeduleret rapport som sendes som word, modtaget i UTH format og er svær at åben på MAC",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Minor",
+        "updated": "2020-07-06T09:14:49.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-65868",
+        "summary": "Title of Person is not shown in CV",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-07-03T05:59:56.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-65852",
+        "summary": "CV module - Edit profile info",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-06-18T07:41:59.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-65844",
+        "summary": "Hyperlinks to REF1 records in REF1a and REF1b summary reports",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-13T15:57:25.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-65828",
+        "summary": "Pure Community not finding results",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-07-21T15:17:27.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-65788",
+        "summary": "5.18 search export",
+        "assignee": "Michael Jensen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=15108",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-07-07T06:15:31.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-65658",
+        "summary": "Edit button when editing approvers",
+        "assignee": "Team Award Management",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Reinforcement",
+        "priority": "Minor",
+        "updated": "2020-09-16T09:50:10.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-65607",
+        "summary": "REF1a Summary",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-18T11:20:05.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-65538",
+        "summary": "Many publications disappeared from our AMSCO database",
+        "assignee": "Henrik Kragh-Hansen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=hkh&avatarId=10046",
+        "status": "Feedback",
+        "team": "Reinforcement",
+        "priority": "Major",
+        "updated": "2020-06-25T05:58:54.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-65466",
+        "summary": "(COVID-19) Banner -- defaults to display of Researchers",
+        "assignee": "Mike Bertelsen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=mbe&avatarId=17227",
+        "status": "In Progress",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-07-07T14:23:31.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-65410",
+        "summary": "JISC ROUTER- MDPI data source not pulling in authors' full names",
+        "assignee": "James Toon",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=james_toon&avatarId=15399",
+        "status": "Open",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-06-11T13:11:43.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-65293",
+        "summary": "QABO: Existing publication",
+        "assignee": "Jörg Dix",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=jorg_dix&avatarId=15194",
+        "status": "Triaged",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-08-12T13:54:52.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-65255",
+        "summary": "Merging records problem",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-06-10T07:23:29.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-65206",
+        "summary": "Can set custom documentaion to on, with no link to documentation. (was:Error message inside a researcher's profile \"Cannot Read property 'title'\")",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Platform",
+        "priority": "Minor",
+        "updated": "2020-05-28T12:04:00.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-65194",
+        "summary": "Reporting module filter issue",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Feedback",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-06-11T14:04:50.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-65192",
+        "summary": "Strange fingerprint related error",
+        "assignee": "Brian Plauborg",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=bp&avatarId=17183",
+        "status": "In Progress",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-21T14:45:48.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-65170",
+        "summary": "New Reporting Module: Error in Filtering by Funding Organisation in Applications",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-05-27T10:49:10.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-65091",
+        "summary": "Dashboard in 5.17.3-1 does not sort on count (WashU)",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-05-25T08:37:10.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-65029",
+        "summary": "External organizations listed in RO - includes NYU as external",
+        "assignee": "Team Integrations",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_integrations&avatarId=15590",
+        "status": "Acknowledged by engineering team",
+        "team": "Integrations",
+        "priority": "Major",
+        "updated": "2020-06-10T06:50:19.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-64915",
+        "summary": "Error when attempting transfer of data from Pure to REF Submission system",
+        "assignee": "Thomas Ægidiussen Jensen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=tje&avatarId=15792",
+        "status": "Waiting for client",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-07T12:57:00.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-64912",
+        "summary": "Problem i rapport der anvender orcidLastSynchronized",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-05-18T13:52:57.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-64868",
+        "summary": "SEP/KUOZ errors during/resulting from FTE import",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-05-26T14:10:08.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-64862",
+        "summary": "REF attribution algorithm - not attributing enough outputs",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-07-07T09:40:28.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-64821",
+        "summary": "BFI Tjek",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-05-15T06:49:18.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-64755",
+        "summary": "Large Increase in Available Updates from Online Sources",
+        "assignee": "Thue Udengaard Andersen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=tua&avatarId=15206",
+        "status": "In Progress",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-09T12:05:51.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-64740",
+        "summary": "5.17.3 Test System - Error when adding PDF file to publication",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Feedback",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-07-07T09:40:24.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-64664",
+        "summary": "New reporting: Display of \"Award type\" does not render all award type levels",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-18T18:00:10.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-64642",
+        "summary": "KU webportal er ramt af daglige udfald.",
+        "assignee": "Brian Plauborg",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=bp&avatarId=17183",
+        "status": "Waiting for client",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-10T12:38:52.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-64430",
+        "summary": "Weird entry in download options",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Trivial",
+        "updated": "2020-07-07T09:40:13.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-64382",
+        "summary": "500 internal server error for public cv",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-06-04T13:19:29.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-64293",
+        "summary": "Fallback locale does not works as expected in Pure Portal",
+        "assignee": "Hamid Alavi Toussi",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=15094",
+        "status": "Feedback",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-09-16T09:53:20.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-64279",
+        "summary": "New Reporting - Unable to drill down on the Number of External Organisations",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-07-10T10:48:20.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-64223",
+        "summary": "Error being returned in expand mode",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-06-30T18:18:52.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-64194",
+        "summary": "Cannot save because of conflicting changes",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-28T17:21:55.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-64162",
+        "summary": "Two NIH grants not appearing on an investigator profile",
+        "assignee": "Tórhallur Kirke",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=tki&avatarId=15984",
+        "status": "In Progress",
+        "team": "Integrations",
+        "priority": "Major",
+        "updated": "2020-09-02T13:50:32.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-64137",
+        "summary": "BFI-point vises forkert",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-04-22T08:24:44.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-64131",
+        "summary": "NIH-funded grant missing in Pure",
+        "assignee": "Tórhallur Kirke",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=tki&avatarId=15984",
+        "status": "Feedback",
+        "team": "Integrations",
+        "priority": "Major",
+        "updated": "2020-09-02T13:56:28.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-64129",
+        "summary": "Scopus candidates by ID not working",
+        "assignee": "Tommy Winther",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=twi&avatarId=14887",
+        "status": "In Progress",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-16T07:41:12.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-64026",
+        "summary": "Display of Organisation Hierarchy when Visibility is set to Restricted ",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Minor",
+        "updated": "2020-09-09T16:03:59.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-64007",
+        "summary": "Error when you try to create a table data story using \"Name\" as a dimension against \"Scopus citations\"",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-04-22T10:02:58.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-63815",
+        "summary": "Errors in aggregation Fingerprint jobs",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-04-07T07:21:14.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-63761",
+        "summary": "Custom Ratings not working in Reporting",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-04-28T07:32:03.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-63713",
+        "summary": "Dashboards from Template not working (Princeton)",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-26T17:10:26.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-63684",
+        "summary": "FW: The report \"CRIS Weekly New Publication List\" failed to produce a result",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-20T07:40:21.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-63648",
+        "summary": "Export to Excel ",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-17T08:41:30.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-63630",
+        "summary": "New report module - some project relations not displayed in values",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-04-08T07:57:19.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-63523",
+        "summary": "REF4b not populating",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Feedback",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-14T08:14:38.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-63443",
+        "summary": "Portal errors reported from Google",
+        "assignee": "Kristian Toland (ELS)",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=k.toland%40elsevier.com&avatarId=16295",
+        "status": "Needs specification",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-08-04T07:46:50.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-63356",
+        "summary": "Error Deleting Manually Entered User",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-09T05:09:45.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-63323",
+        "summary": "Profile picture turns 45 degrees in CV",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-03-19T14:18:12.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-63011",
+        "summary": "Fejl i FAAR rapporter",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-04-08T07:56:02.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-62994",
+        "summary": "Direct2Experts not working",
+        "assignee": "Kristian Toland (ELS)",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=k.toland%40elsevier.com&avatarId=16295",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-04-22T06:35:00.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-62969",
+        "summary": "Sorting on the Portal and via API doesn't order by date?",
+        "assignee": "Mike Hougaard",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=mho&avatarId=16291",
+        "status": "Feedback",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-08-17T13:04:26.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-62892",
+        "summary": "Pure instance vrijeuniversiteitamsterdam has created a heap dump",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-04T08:32:41.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-62815",
+        "summary": "REF6 Unit reductions visibility - urgent!",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Feedback",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-08-25T14:39:32.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-62489",
+        "summary": "BFI-points - forskel mellem PURE og https://bfi.fi.dk/Publication/NationalAnalysis?selectedYears=2019",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-03-02T11:15:40.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-62450",
+        "summary": "Language fallback associated project title",
+        "assignee": "Mike Bertelsen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=mbe&avatarId=17227",
+        "status": "Reopened",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-09-08T13:04:00.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-62382",
+        "summary": "Strange Excel person export",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Minor",
+        "updated": "2020-03-24T11:07:54.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-62320",
+        "summary": "Number of outputs required for REF attribution profile calculation incorrect?",
+        "assignee": "Dan Malthesen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=dm&avatarId=10430",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-09-15T22:18:55.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-62223",
+        "summary": "job \"Research Output Import\" - Fatal error when importing publications",
+        "assignee": "Morten Bertelsen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=bertelsen1&avatarId=16695",
+        "status": "Reopened",
+        "team": "Integrations",
+        "priority": "Major",
+        "updated": "2020-05-05T10:09:58.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-62222",
+        "summary": "Pure instance universitadeglistudipalermo has created a heap dump",
+        "assignee": "Team Integrations",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_integrations&avatarId=15590",
+        "status": "Acknowledged by engineering team",
+        "team": "Integrations",
+        "priority": "Minor",
+        "updated": "2020-07-08T07:04:46.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-62195",
+        "summary": "Publications modified every day with no visible modifications",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Needs specification",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-06-04T07:28:55.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-62086",
+        "summary": "200 internal server error",
+        "assignee": "Kim Thrysøe",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=kt&avatarId=13783",
+        "status": "Acknowledged by engineering team",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-18T10:59:38.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-61949",
+        "summary": "Check Content and Files Error",
+        "assignee": "Morten Bertelsen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=bertelsen1&avatarId=16695",
+        "status": "Acknowledged by engineering team",
+        "team": "Integrations",
+        "priority": "Major",
+        "updated": "2020-06-22T09:00:06.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-61617",
+        "summary": "Dashboard - widgets not added",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-01-31T11:54:04.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-61530",
+        "summary": "Dashboard - compare function not working",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-01-21T14:23:16.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-61488",
+        "summary": "Some concepts duplicated within a thesaurus",
+        "assignee": "Jeroen Geertzen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=j.geertzen%40elsevier.com&avatarId=16584",
+        "status": "Triaged",
+        "team": null,
+        "priority": "Major",
+        "updated": "2020-01-17T15:45:59.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-61374",
+        "summary": "Pure portal URL of configuration options",
+        "assignee": "Jens Krog Mørup",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Triaged",
+        "team": "Implementation Managers",
+        "priority": "Major",
+        "updated": "2020-01-08T06:50:02.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-61155",
+        "summary": "Time tracking in Pure Manual ",
+        "assignee": "Team User Documentation",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Triaged",
+        "team": null,
+        "priority": "Major",
+        "updated": "2020-08-14T09:17:43.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-61120",
+        "summary": "Awards management - Personal user access",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Needs specification",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-17T06:35:01.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-61046",
+        "summary": "Dashboard filter not working",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-03-04T06:46:37.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-60981",
+        "summary": "Dashboard- Combo widget: Is not applying Org unit Lifecycle filters to results",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-06-16T19:16:18.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-60934",
+        "summary": "Dashboard- Combo widget: Does not group/aggregate by Org Unit keyword",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-06-16T19:16:18.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-60888",
+        "summary": "Proposing Reserves for double weighted REF2s",
+        "assignee": "Jim Kynde Meyer",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=jkm&avatarId=10047",
+        "status": "Acknowledged by engineering team",
+        "team": "Platform",
+        "priority": "Minor",
+        "updated": "2020-02-28T10:55:52.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-60675",
+        "summary": "Scheduling reports for checking application workflow step",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-03-11T01:43:04.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-60609",
+        "summary": "External organisations wrongly marked as unused ",
+        "assignee": "Team Platform",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Platform",
+        "priority": "Minor",
+        "updated": "2020-03-11T10:38:11.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-60550",
+        "summary": "Error message when submitting a record",
+        "assignee": "Thue Udengaard Andersen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=tua&avatarId=15206",
+        "status": "Acknowledged by engineering team",
+        "team": "Data models",
+        "priority": "Minor",
+        "updated": "2020-09-15T12:12:41.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-60549",
+        "summary": "Publications with incorrect Scopus IDs - Scopus Pub. ID checker needed ",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Needs specification",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-18T09:13:20.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-60536",
+        "summary": "Merged Person records lose submitters reasons for proposing on REF2s",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-07-07T09:38:17.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-60216",
+        "summary": "Research Performance Indicators",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2019-11-25T07:30:24.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-60126",
+        "summary": "Files for validation available",
+        "assignee": "Anders Mullerup",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "In Progress",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-01-14T11:13:44.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-60068",
+        "summary": "Status BFI-publication",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2019-11-25T07:29:28.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-59953",
+        "summary": "reference date is not always correct",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Reopened",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-21T10:11:17.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-59616",
+        "summary": "Forlag-ændringer slår ikke igennem fra BFI til Pure",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-07-28T09:10:18.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-59551",
+        "summary": "How to get visibile in Direct2Experts and Pure experts community?",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-02-19T13:34:07.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-59496",
+        "summary": "Bibtex does not \"remember\" language",
+        "assignee": "Jens Krog Mørup",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Feedback",
+        "team": "Implementation Managers",
+        "priority": "Major",
+        "updated": "2019-10-29T08:43:32.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-59383",
+        "summary": "Dashboard - Not showing record related to widgets ",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-07-31T02:35:57.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-59320",
+        "summary": "BfiConferenceSeriesSynchronization kommer med en Fatal Fejl",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-03-25T14:11:35.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-59186",
+        "summary": "Reporting on empty description fields does not work",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-06-08T06:17:39.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-59164",
+        "summary": "Pure Portal - Option to choose Org affiliations ",
+        "assignee": "Mikkel Dahl Gade",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=JIRAUSER18726&avatarId=17217",
+        "status": "Needs specification",
+        "team": "Portals",
+        "priority": "Minor",
+        "updated": "2020-08-17T10:51:23.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-59082",
+        "summary": "Dashboard - Error Message is shown when opted \"Publication per FTE\"",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2019-10-14T13:49:05.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-58801",
+        "summary": "Wrong filter text in Russian",
+        "assignee": "Team Translations",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Triaged",
+        "team": null,
+        "priority": "Major",
+        "updated": "2019-10-01T13:56:09.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-58800",
+        "summary": "Editing Targets of Research Performance Indicators (RPI)",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2019-10-08T07:46:21.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-58730",
+        "summary": "Removing unneeded text from Publications Bibliographic note field",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Feedback",
+        "team": "Data models",
+        "priority": "Minor",
+        "updated": "2020-09-21T14:57:44.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-58701",
+        "summary": "Reduced ability to report on REF1 in the old reporting module",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-07-07T10:31:33.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-58653",
+        "summary": "User supporter role is not working as expected",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2019-10-03T13:27:01.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-58521",
+        "summary": "The renderingProperties endpoint doesn't list all Curriculum Vitae translation keys. ",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-06-15T08:06:50.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-58504",
+        "summary": "Reporting on planned researcher commitment",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "In Progress",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-06-17T06:31:16.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-58342",
+        "summary": "Dashboard - URO - current workload ",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2019-09-19T01:36:54.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-58224",
+        "summary": "Texas Tech: free text search results seem wrong",
+        "assignee": "Hamid Alavi Toussi",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=15094",
+        "status": "Needs specification",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2019-10-08T06:41:05.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-58020",
+        "summary": "Help with Collaboration report with India (Princeton)",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-02-19T15:22:28.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-57546",
+        "summary": "Inconsistent handling of initials across publication and project content types",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Minor",
+        "updated": "2019-12-09T07:35:23.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-57488",
+        "summary": "WoS/InCites Total Citation display",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-07-03T06:02:27.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-57421",
+        "summary": "Collaborative partner not shown under funding on award",
+        "assignee": "Team Award Management",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Needs specification",
+        "team": "Reinforcement",
+        "priority": "Major",
+        "updated": "2020-08-31T13:09:18.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-57343",
+        "summary": "BFI-tab - count is not working ",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2019-08-14T12:46:08.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-57188",
+        "summary": "Exclude certain information from PURE metrics report",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-07-03T06:00:30.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-56931",
+        "summary": "Widget options displayed twice",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2019-07-19T12:58:19.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-56929",
+        "summary": "Why is the editorial task \"Duplicates\" missing for a user with an editor role?",
+        "assignee": "Team User Documentation",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Triaged",
+        "team": null,
+        "priority": "Major",
+        "updated": "2019-11-07T13:09:17.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-56874",
+        "summary": "CERIF XML export contains several errors",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Needs specification",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-05-28T07:28:50.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-56389",
+        "summary": "Not all research outputs are shown on the research portal",
+        "assignee": "Hong Chen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Feedback",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-06-10T10:21:19.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-56369",
+        "summary": "User names must not be searchable ",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Acknowledged by engineering team",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-07-21T14:09:53.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-56331",
+        "summary": "Layout on person breaks if small profile image - Portal",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Minor",
+        "updated": "2019-12-30T09:40:04.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-56284",
+        "summary": "global search excludes content types in a manner unpredictable to the user",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Needs specification",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-05-28T07:19:04.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-56123",
+        "summary": "CV outputs show a lot of '?????\" symbol",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-06-03T14:47:44.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-56019",
+        "summary": "Tidsskriftsmystik - BFI",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Feedback",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-07-09T08:07:26.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-55359",
+        "summary": "Researchers' profile pictures are not showing in the research portal",
+        "assignee": "Dan Duus Thoisen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=thoisend&avatarId=16386",
+        "status": "Reopened",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-09-17T14:27:13.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-54867",
+        "summary": "Inconsistent search behavior between research output and ref 2",
+        "assignee": "Team Report Assessment",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_report_assessment&avatarId=15682",
+        "status": "Acknowledged by engineering team",
+        "team": "Reporting + Assessments",
+        "priority": "Major",
+        "updated": "2020-07-08T14:16:22.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-53601",
+        "summary": "Research output category visible in path",
+        "assignee": "Fríða Jakobsen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=JIRAUSER18734&avatarId=17222",
+        "status": "In Progress",
+        "team": "Data models",
+        "priority": "Minor",
+        "updated": "2020-09-16T05:50:07.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-53588",
+        "summary": "Link to WoS record as requested in WoS Data usage policy is missing",
+        "assignee": "Kristian Toland (ELS)",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=k.toland%40elsevier.com&avatarId=16295",
+        "status": "Needs specification",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-08-04T07:48:00.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-49260",
+        "summary": "Research With NJ:  Fingerprint for a specific person different between Community and Princeton Portal",
+        "assignee": "Kristian Toland (ELS)",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=k.toland%40elsevier.com&avatarId=16295",
+        "status": "In Progress",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2019-09-26T15:52:53.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-49256",
+        "summary": "After opening a publication from a list in Pure portal, cursor jumps back to top in Chrome",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Minor",
+        "updated": "2019-09-17T13:37:04.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-48492",
+        "summary": "Grants/projects - need to be able to default name to \"Known as\" name",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Needs specification",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-07-09T10:57:57.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-47848",
+        "summary": "URL with reference to organizational units in portal jumps to top of page in Firefox",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Minor",
+        "updated": "2020-07-06T07:10:04.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-45181",
+        "summary": "APIs do not return person identifiers in research outputs when former or when affiliated to former org unit",
+        "assignee": "James Toon",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=james_toon&avatarId=15399",
+        "status": "Feedback",
+        "team": "Integrations",
+        "priority": "Major",
+        "updated": "2019-12-09T07:44:55.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-44741",
+        "summary": "error message \"the following fields are required: type\"",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Acknowledged by engineering team",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-07-29T11:03:19.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-44207",
+        "summary": "Text resources - unexpected modifications after db wipe and configuration import",
+        "assignee": "Team Translations",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Feedback",
+        "team": null,
+        "priority": "Major",
+        "updated": "2019-10-01T06:20:18.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-42927",
+        "summary": "Strange render styles for projects",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Acknowledged by engineering team",
+        "team": "Data models",
+        "priority": "Minor",
+        "updated": "2020-09-14T09:06:50.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-42892",
+        "summary": "API: version-specific security configuration vs. API key that is universally valid",
+        "assignee": "Chiara Farinelli",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=c.farinelli%40elsevier.com&avatarId=16898",
+        "status": "Triaged",
+        "team": "Integrations",
+        "priority": "Major",
+        "updated": "2019-12-12T15:30:05.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-40989",
+        "summary": "External author disappears from network",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Minor",
+        "updated": "2019-05-01T11:54:36.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-39968",
+        "summary": "RIS has updated documentation from 2011 which does not seem to be complient with the old 2004 documentation",
+        "assignee": "Chiara Farinelli",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=c.farinelli%40elsevier.com&avatarId=16898",
+        "status": "Triaged",
+        "team": "Integrations",
+        "priority": "Major",
+        "updated": "2019-12-09T07:44:29.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-39757",
+        "summary": "\"Similar Profiles\" link not showing up for everyone who should have it appear in Portal",
+        "assignee": "Kristian Toland (ELS)",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=k.toland%40elsevier.com&avatarId=16295",
+        "status": "Acknowledged by engineering team",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-06-24T07:27:42.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-38928",
+        "summary": "Presse/media vs Retriever feed",
+        "assignee": "Davina Erasmus",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Needs specification",
+        "team": "Integrations",
+        "priority": "Major",
+        "updated": "2019-09-13T12:33:31.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-38732",
+        "summary": "Different font size for Russian and English locales on Pure Portal",
+        "assignee": "Mike Bertelsen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=mbe&avatarId=17227",
+        "status": "In Progress",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-03-17T09:19:14.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-36183",
+        "summary": "US and Russian translation problem",
+        "assignee": "Team User Documentation",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Open",
+        "team": null,
+        "priority": "Major",
+        "updated": "2020-08-19T11:25:23.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-35266",
+        "summary": "RIS export and import",
+        "assignee": "Morten Bertelsen",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=bertelsen1&avatarId=16695",
+        "status": "Acknowledged by engineering team",
+        "team": "Integrations",
+        "priority": "Minor",
+        "updated": "2020-02-27T11:44:07.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-13656",
+        "summary": "BFI system Screening error. XML-format kan ikke læses",
+        "assignee": "Pure Product Team",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=pure_product_team&avatarId=15393",
+        "status": "Reopened",
+        "team": null,
+        "priority": "Major",
+        "updated": "2020-06-10T09:12:10.000+00:00"
+    },
+    {
+        "key": "PURESUPPORT-11105",
+        "summary": "JUFO job needs to be improved",
+        "assignee": "Team Integrations",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_integrations&avatarId=15590",
+        "status": "Acknowledged by engineering team",
+        "team": "Integrations",
+        "priority": "Minor",
+        "updated": "2019-09-30T08:07:19.000+00:00"
+    },
+    {
+        "key": "IMPLEMENTATION-1559",
+        "summary": "Technion: Available Updates Rules",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Triaged",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-18T10:10:18.000+00:00"
+    },
+    {
+        "key": "IMPLEMENTATION-1554",
+        "summary": "System not working for user leoram",
+        "assignee": "Kim Thrysøe",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=kt&avatarId=13783",
+        "status": "Waiting for client",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-21T11:50:46.000+00:00"
+    },
+    {
+        "key": "IMPLEMENTATION-1538",
+        "summary": "UKY: person synchronization not marking former",
+        "assignee": "Mads Trier",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=mtr&avatarId=16189",
+        "status": "Waiting for client",
+        "team": "Integrations",
+        "priority": "Major",
+        "updated": "2020-09-15T07:44:11.000+00:00"
+    },
+    {
+        "key": "IMPLEMENTATION-1537",
+        "summary": "IUCC: IHP (local) keywords are missing from the community module",
+        "assignee": "Team Community Module",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Acknowledged by engineering team",
+        "team": "Reinforcement",
+        "priority": "Major",
+        "updated": "2020-09-15T13:42:15.000+00:00"
+    },
+    {
+        "key": "IMPLEMENTATION-1521",
+        "summary": "Changing affiliation to visiting",
+        "assignee": "Jason Teitel",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=15110",
+        "status": "Open",
+        "team": "Implementation Managers",
+        "priority": "Major",
+        "updated": "2020-09-18T17:26:32.000+00:00"
+    },
+    {
+        "key": "IMPLEMENTATION-1506",
+        "summary": "Portuguese Language - Filter for Research Output is not displayed correctly",
+        "assignee": "Team Pure Portals",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_pure_portals&avatarId=17181",
+        "status": "Reopened",
+        "team": "Portals",
+        "priority": "Major",
+        "updated": "2020-09-16T03:07:47.000+00:00"
+    },
+    {
+        "key": "IMPLEMENTATION-1488",
+        "summary": "Why I cannot switch user?",
+        "assignee": "Pure Support Team",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=pure_support_team&avatarId=11283",
+        "status": "Feedback",
+        "team": "Support",
+        "priority": "Major",
+        "updated": "2020-09-13T12:03:30.000+00:00"
+    },
+    {
+        "key": "IMPLEMENTATION-1471",
+        "summary": "ASJCSubjectAreas Keywords group is not displayed correctly",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Waiting for client",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-18T06:25:39.000+00:00"
+    },
+    {
+        "key": "IMPLEMENTATION-1470",
+        "summary": "Information in Budget Total is not correct",
+        "assignee": "Martin Stentoft",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=stentoftm&avatarId=16698",
+        "status": "Acknowledged by engineering team",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-08-20T11:17:51.000+00:00"
+    },
+    {
+        "key": "IMPLEMENTATION-1458",
+        "summary": "Technion:  Performance Issues in Pure",
+        "assignee": "Brian Plauborg",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=bp&avatarId=17183",
+        "status": "In Progress",
+        "team": "Platform",
+        "priority": "Major",
+        "updated": "2020-09-16T19:01:16.000+00:00"
+    },
+    {
+        "key": "IMPLEMENTATION-1434",
+        "summary": "Tel Aviv University:  Automatic Update does not flag different Type",
+        "assignee": "Team Data Models",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_data_models&avatarId=15593",
+        "status": "Needs specification",
+        "team": "Data models",
+        "priority": "Major",
+        "updated": "2020-09-18T06:33:56.000+00:00"
+    },
+    {
+        "key": "IMPLEMENTATION-1427",
+        "summary": "dblp import error for Informal and other publications ",
+        "assignee": "Jason Teitel",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=15110",
+        "status": "Open",
+        "team": "Implementation Managers",
+        "priority": "Major",
+        "updated": "2020-07-20T01:28:16.000+00:00"
+    },
+    {
+        "key": "IMPLEMENTATION-1420",
+        "summary": "Two researchers share the same Scopus Author ID",
+        "assignee": "Thomas Gurney",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=t.gurney%40elsevier.com&avatarId=14180",
+        "status": "Open",
+        "team": "Implementation Managers",
+        "priority": "Major",
+        "updated": "2020-09-03T08:26:42.000+00:00"
+    },
+    {
+        "key": "IMPLEMENTATION-1419",
+        "summary": "Duplicate Scopus Author IDs",
+        "assignee": "Thomas Gurney",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=t.gurney%40elsevier.com&avatarId=14180",
+        "status": "Open",
+        "team": "Implementation Managers",
+        "priority": "Major",
+        "updated": "2020-09-03T08:25:56.000+00:00"
+    },
+    {
+        "key": "IMPLEMENTATION-1337",
+        "summary": "Internal Opportunities created in Funding Institutional do nto Sync to Pure",
+        "assignee": "Kyuho Lee",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=ky.lee%40elsevier.com&avatarId=15498",
+        "status": "Feedback",
+        "team": "Integrations",
+        "priority": "Major",
+        "updated": "2020-06-09T09:14:49.000+00:00"
+    },
+    {
+        "key": "IMPLEMENTATION-1297",
+        "summary": "Tel Aviv:  Internal Person matched to External Org record of Internal Root Org",
+        "assignee": "Team Integrations",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?ownerId=team_integrations&avatarId=15590",
+        "status": "Acknowledged by engineering team",
+        "team": "Integrations",
+        "priority": "Major",
+        "updated": "2020-09-21T05:54:51.000+00:00"
+    },
+    {
+        "key": "IMPLEMENTATION-776",
+        "summary": "REF2021 - REF2 not locking even when selected for review",
+        "assignee": "Jens Krog Mørup",
+        "assigneeIconUrl": "https://support.pure.elsevier.com/secure/useravatar?avatarId=10102",
+        "status": "Reopened",
+        "team": "Implementation Managers",
+        "priority": "Major",
+        "updated": "2019-07-24T04:52:14.000+00:00"
+    }
+]
