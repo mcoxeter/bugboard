@@ -46,7 +46,7 @@ export class SceneMain extends Phaser.Scene {
     var backdrop = this.add.image(0, 0, 'backdrop');
     backdrop.setOrigin(0, 0);
 
-    const sun = this.add.sprite(1100, 100, 'sun');
+    const sun = this.add.sprite(1200, 80, 'sun');
     sun.setScale(.5);
     this.anims.create({key: 'sunAnim', frames: this.anims.generateFrameNumbers('sun', {}), frameRate: 5, repeat: -1});
     sun.play('sunAnim');
