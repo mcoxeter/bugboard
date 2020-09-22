@@ -30,7 +30,7 @@ export class BugFalling extends Phaser.Physics.Arcade.Sprite {
         this.fallSpeed += 10;
   
         this.y += (this.vector.y / 1000) * (delta * this.fallSpeed);
-        const splatHeight = Number(this.sceneMain.game.config.height) - 80.0;
+        const splatHeight = Number(this.sceneMain.game.config.height) - 40.0;
   
         if( this.y > splatHeight){
           this.splat();

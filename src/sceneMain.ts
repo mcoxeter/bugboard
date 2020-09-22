@@ -5,7 +5,7 @@ export class SceneMain extends Phaser.Scene {
   colors = ['blue', 'green', 'magenta', 'purple', 'red'];
   healthyBugs: Bug[] = [];
   bugsFalling: BugFalling[] = [];
-  bugBoardBoundary = new Phaser.Geom.Rectangle(340, 100, 600, 300);
+  bugBoardBoundary = new Phaser.Geom.Rectangle(340, 160, 580, 340);
   team = 'All Bugs';
   model: IModel = { bugs: [] };
 
@@ -45,7 +45,7 @@ export class SceneMain extends Phaser.Scene {
   async create(): Promise<void> {
     var backdrop = this.add.image(0, 0, 'backdrop');
     backdrop.setOrigin(0, 0);
-    const bugBoard = this.add.image(650, 300, 'bugboard');
+    const bugBoard = this.add.image(650, 350, 'bugboard');
     bugBoard.setScale(1.2);
     const apiResults = await this.getNumberOfBugs();
 
@@ -55,16 +55,15 @@ export class SceneMain extends Phaser.Scene {
       ),
     };
 
+
     const text = this.add.text(
       10,
       10,
       this.team +
         '\nPopulation: ' +
         filteredResults.bugs.length +
-        '\nClosed Today: ' +
-        filteredResults.bugs.filter(
-          (b) => b.status === 'Closed' || b.status === 'Released'
-        ).length
+        '\nRecently closed: ' +
+        filteredResults.bugs.filter( x => this.fixedFilter(x)).length
     );
     text.setColor('Black');
     text.setFont('Emmett');
@@ -110,7 +109,7 @@ export class SceneMain extends Phaser.Scene {
       return {
         assignee: x.assignee,
         id: x.key,
-        fixed: x.status === 'Closed' || x.status === 'Released',
+        fixed: this.fixedFilter(x),
         severity,
         date: x.updated,
         team: x.team,
@@ -120,6 +119,11 @@ export class SceneMain extends Phaser.Scene {
       bugs: bugs,
     };
   }
+
+  fixedFilter(b : IAPIBug) : boolean {
+    return b.status === 'Closed' || b.status === 'Released' || b.status === 'Ready for release' || b.status === 'QA in progress' || b.status === 'Ready for QA';
+  } 
+
 
   async update(time: number, delta: number): Promise<void> {
     for (var bug of this.healthyBugs) {
