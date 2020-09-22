@@ -1,6 +1,7 @@
 import { SceneMain } from './sceneMain';
 import "phaser";
 
+// 720p
 var config: Phaser.Types.Core.GameConfig = {
     type: Phaser.AUTO,
     width: 1280,

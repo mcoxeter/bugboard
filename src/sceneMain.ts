@@ -5,7 +5,7 @@ export class SceneMain extends Phaser.Scene {
   colors = ['blue', 'green', 'magenta', 'purple', 'red'];
   healthyBugs: Bug[] = [];
   bugsFalling: BugFalling[] = [];
-  bugBoardBoundary = new Phaser.Geom.Rectangle(340, 160, 580, 340);
+  bugBoardBoundary = new Phaser.Geom.Rectangle(340, 150, 580, 340);
   team = 'All Bugs';
   model: IModel = { bugs: [] };
 
@@ -45,7 +45,7 @@ export class SceneMain extends Phaser.Scene {
   async create(): Promise<void> {
     var backdrop = this.add.image(0, 0, 'backdrop');
     backdrop.setOrigin(0, 0);
-    const bugBoard = this.add.image(650, 350, 'bugboard');
+    const bugBoard = this.add.image(650, 325, 'bugboard');
     bugBoard.setScale(1.2);
     const apiResults = await this.getNumberOfBugs();
 
