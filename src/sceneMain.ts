@@ -15,11 +15,11 @@ export class SceneMain extends Phaser.Scene {
 
   preload() {
     this.load.spritesheet(
-      'baseball',
-      'assets/spritesheets/baseball-spritesheet-640x470.png',
+      'sun',
+      'assets/spritesheets/sun.png',
       {
-        frameWidth: 640,
-        frameHeight: 470,
+        frameWidth: 500,
+        frameHeight: 500,
       }
     );
 
@@ -45,6 +45,12 @@ export class SceneMain extends Phaser.Scene {
   async create(): Promise<void> {
     var backdrop = this.add.image(0, 0, 'backdrop');
     backdrop.setOrigin(0, 0);
+
+    const sun = this.add.sprite(1100, 100, 'sun');
+    sun.setScale(.5);
+    this.anims.create({key: 'sunAnim', frames: this.anims.generateFrameNumbers('sun', {}), frameRate: 5, repeat: -1});
+    sun.play('sunAnim');
+
     const bugBoard = this.add.image(650, 325, 'bugboard');
     bugBoard.setScale(1.2);
     const apiResults = await this.getNumberOfBugs();
